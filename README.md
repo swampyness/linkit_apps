@@ -1,5 +1,6 @@
 # linkit_apps
 LinkIt One applications
+Requires wrapper libraries
 
 linkit_tacho
 
